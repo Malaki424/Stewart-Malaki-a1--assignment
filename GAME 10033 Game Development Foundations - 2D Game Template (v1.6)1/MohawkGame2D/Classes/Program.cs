@@ -13,7 +13,7 @@ using System.Numerics;
 ///     The main underlying program. DO NOT EDIT.
 /// </summary>
 [GeneratorTools.OmitFromDocumentation]
-public static class Program
+public static partial class Program
 {
     // Framebuffer information
     private const int MaxRenderSize = 4096;
